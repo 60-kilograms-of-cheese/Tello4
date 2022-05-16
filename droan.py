@@ -24,7 +24,8 @@ sleep(1)
 
 #move forward 800cm
 
-tello.move_forward(800)
+tello.move_forward(400)
+tello.move_forward(400)
 sleep(1)
 
 #flip backward
@@ -54,7 +55,8 @@ sleep(1)
 
 #move forward 800cm
 
-tello.move_forward(800)
+tello.move_forward(400)
+tello.move_forward(400)
 sleep(1)
 
 #flip right
